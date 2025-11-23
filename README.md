@@ -22,7 +22,8 @@
 
 ###
 
-<p align="left">I am pursuing BCA 2nd year from United university<br>📚  I’m currently working on **Fullstack developer*</p>
+<p align="left">I am pursuing BCA 2nd year from United university<br>📚  I’m currently working on **Fullstack developer*  
+Visit my portfolio to explore all of my projects: </p>
 
 ###
 
