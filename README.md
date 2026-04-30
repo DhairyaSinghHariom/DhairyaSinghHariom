@@ -3,14 +3,24 @@
 <img src="https://cdn.phototourl.com/free/2026-04-30-aee7ef58-c57d-416c-9b1f-a3228baa36fd.jpg" width="1000" height="900">
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">📧 Gmail</a> •
-  <a href="https://www.linkedin.com/in/dhairya-singh-32118b2a7/">LinkedIn</a> •
-  <a href="https://github.com/DhairyaSinghhariom">GitHub</a> •
-  <a href="https://dhairyasinghhariom.github.io/DhairySingh-Portfolio-/">Portfolio</a> •
-  <a href="https://www.instagram.com/dhairyasingh454/">Instagram</a> •
-  <a href="https://x.com/DhairyaSin46264">Twitter</a> •
+  <div align="center">
+
+  <img src="https://github.com/DhairyaSinghhariom.png" width="150" style="border-radius: 50%;" />
+
+
+
+  <p>
+    <a href="mailto:your-email@gmail.com">📧 Gmail</a> •
+    <a href="https://www.linkedin.com/in/dhairya-singh-32118b2a7/">LinkedIn</a> •
+    <a href="https://github.com/DhairyaSinghhariom">GitHub</a> •
+    <a href="https://dhairyasinghhariom.github.io/DhairySingh-Portfolio-/">Portfolio</a> •
+    <a href="https://www.instagram.com/dhairyasingh454/">Instagram</a> •
+    <a href="https://x.com/DhairyaSin46264">Twitter</a>
+  </p>
+
+</div>
   
-</p>
+
 
 ---
 
