@@ -3,12 +3,12 @@
 
 <p align="center">
   <a href="mailto:your-email@gmail.com">📧 Gmail</a> •
-  <a href="#">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/dhairya-singh-32118b2a7/">LinkedIn</a> •
   <a href="https://github.com/DhairyaSinghhariom">GitHub</a> •
-  <a href="#">Portfolio</a> •
-  <a href="#">Instagram</a> •
-  <a href="#">Twitter</a> •
-  <a href="#">WhatsApp</a>
+  <a href="https://dhairyasinghhariom.github.io/DhairySingh-Portfolio-/">Portfolio</a> •
+  <a href="https://www.instagram.com/dhairyasingh454/">Instagram</a> •
+  <a href="https://x.com/DhairyaSin46264">Twitter</a> •
+  
 </p>
 
 ---
