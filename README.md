@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhairya Singh</h1>
 <h3 align="center">Full Stack Developer in Progress · Problem Solver · Tech Enthusiast</h3>
+<img src="https://instasize.com/p/5b6ffc2bedc6621b413a3c8b5a18b2c883ee463d91f4ee655e4cecc08ab60e0b" width="300" height="200">
 
 <p align="center">
   <a href="mailto:your-email@gmail.com">📧 Gmail</a> •
