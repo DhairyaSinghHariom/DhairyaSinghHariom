@@ -98,7 +98,7 @@ I focus on writing **clean, scalable, and maintainable code** using modern techn
 
 | # | Project | Tech Stack | Repo | Live |
 |--|--------|-----------|------|------|
-| 1 | Weather App | HTML, CSS, JS | [GitHub](#) | [Live](#) |
+| 1 | Weather App | HTML, CSS, JS | [GitHub](https://github.com/DhairyaSinghHariom) | [Live](#) |
 | 2 | Portfolio Website | HTML, CSS, JS | [GitHub](#) | [Live](#) |
 | 3 | Quiz App | HTML, CSS, JS | [GitHub](#) | [Live](#) |
 
