@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhairya Singh</h1>
 <h3 align="center">Full Stack Developer in Progress · Problem Solver · Tech Enthusiast</h3>
-<img src="\https://kommodo.ai/i/4vAWQJy4TsefXmkSfUmC" width="300" height="200">
+<img src="https://cdn.phototourl.com/free/2026-04-30-aee7ef58-c57d-416c-9b1f-a3228baa36fd.jpg" width="500" height="400">
 
 <p align="center">
   <a href="mailto:your-email@gmail.com">📧 Gmail</a> •
