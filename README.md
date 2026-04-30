@@ -73,11 +73,24 @@ I focus on writing **clean, scalable, and maintainable code** using modern techn
 
 ## ⚔️ DSA Journey
 
-- 🧠 Solving **Data Structures & Algorithms** daily  
-- 🚀 Practicing on:
-  - LeetCode *(Add Link)*
-  - GeeksforGeeks *(Add Link)*
-- 🎯 Focus: Logic building & optimization  
+-## 🧠 DSA Practice & Problem Solving  
+
+🚀 Consistently solving Data Structures & Algorithms problems to strengthen core logic and coding skills.  
+
+### 🔥 Practice Platforms  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+
+### 🎯 Focus Areas  
+- 🧩 Problem Solving & Logical Thinking  
+- ⚡ Time & Space Optimization  
+- 📊 Data Structures (Arrays, Linked List, Stack, Queue, Trees, Graphs)  
+- 🔁 Algorithms (Sorting, Searching, Recursion, Dynamic Programming)  
+
+### 📈 Current Goal  
+- 📅 Daily DSA Practice  
+- 🚀 Improve problem-solving speed & accuracy  
+- 🏆 Build strong technical foundation for placements & real-world projects  
 
 ---
 
