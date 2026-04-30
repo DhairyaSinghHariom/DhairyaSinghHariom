@@ -1,82 +1,106 @@
-<div align="center">
-  <img height="600" src="./banner.png"  />
-</div>
+<h1 align="center">Hi 👋, I'm Dhairya Singh</h1>
+<h3 align="center">Full Stack Developer in Progress · Problem Solver · Tech Enthusiast</h3>
 
-###
+<p align="center">
+  <a href="mailto:your-email@gmail.com">📧 Gmail</a> •
+  <a href="#">LinkedIn</a> •
+  <a href="https://github.com/DhairyaSinghhariom">GitHub</a> •
+  <a href="#">Portfolio</a> •
+  <a href="#">Instagram</a> •
+  <a href="#">Twitter</a> •
+  <a href="#">WhatsApp</a>
+</p>
 
-<h1 align="center">Hey 👋 I am Dhairya Singh</h1>
+---
 
-###
+## 🧾 About Me
 
-<h2 align="center">A passionate Web developer from India</h2>
+I'm a **Full Stack Developer (in progress)** who enjoys turning ideas into real-world web applications.  
+I focus on writing **clean, scalable, and maintainable code** using modern technologies.
 
-###
+- 🎓 BCA 2nd Year Student at **United University**
+- 💻 Learning **Full Stack Development (MERN Stack)**
+- 🌱 Currently improving **Backend & Problem Solving**
+- ⚡ Passion: Building useful & impactful projects
 
-<div align="center">
-  <img src=""  />
-</div>
+---
 
-###
+## 💼 Experience
 
-<h2 align="left">About me</h2>
+### 🧑‍💻 Frontend Development Intern — *Edunet Foundation*  
+📍 Remote | 🗓️ Aug 2025 – Oct 2025  
 
-###
+- Built responsive UI using **HTML, CSS, JavaScript**
+- Worked on real-world project under mentorship  
+- Applied **problem-solving & design thinking**
+- Followed modern development practices  
 
-<p align="left">I am pursuing BCA 2nd year from United university<br>📚  I’m currently working on **Fullstack developer*  
-Visit my portfolio to explore all of my projects: </p>
+---
 
-###
+## 🛠️ Technical Skills
 
-<h2 align="left">Connect with me</h2>
+### 💻 Languages
+`JavaScript` `Java` `Python` `HTML5` `CSS3` `SQL`
 
-###
+### ⚙️ Frameworks & Libraries
+`React` `Node.js` `Express` `Bootstrap` `Tailwind CSS`
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
+### 🗄️ Databases
+`MongoDB` `MySQL`
 
-###
+### 🧰 Tools & Platforms
+`Git` `GitHub` `VS Code` `Firebase` `IntelliJ` `Postman`
 
-<h3 align="left">Language and tools</h3>
+---
 
-###
+## ⚔️ DSA Journey
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-</div>
+- 🧠 Solving **Data Structures & Algorithms** daily  
+- 🚀 Practicing on:
+  - LeetCode *(Add Link)*
+  - GeeksforGeeks *(Add Link)*
+- 🎯 Focus: Logic building & optimization  
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DhairyaSinghhariom&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhairyaSinghhariom&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## 📂 Projects
 
-###
+| # | Project | Tech Stack | Repo | Live |
+|--|--------|-----------|------|------|
+| 1 | Weather App | HTML, CSS, JS | [GitHub](#) | [Live](#) |
+| 2 | Portfolio Website | HTML, CSS, JS | [GitHub](#) | [Live](#) |
+| 3 | Quiz App | HTML, CSS, JS | [GitHub](#) | [Live](#) |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhairyaSinghhariom&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhairyaSinghhariom&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DhairyaSinghhariom&theme=tokyonight" />
+</p>
+
+---
+
+## ⭐ Support
+
+If you find my work useful, consider giving a ⭐ to my repositories!
+
+---
+
+## 📬 Opportunities
+
+I’m open to:
+- Internships 💼  
+- Freelance Projects 🌍  
+- Collaboration 🤝  
+
+---
