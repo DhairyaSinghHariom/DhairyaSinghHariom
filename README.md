@@ -3,22 +3,25 @@
 <img src="https://cdn.phototourl.com/free/2026-04-30-aee7ef58-c57d-416c-9b1f-a3228baa36fd.jpg" width="900" height="900">
 
 <p align="center">
-  <div align="center">
-
-  <img src="https://github.com/DhairyaSinghhariom.png" width="150" style="border-radius: 50%;" />
-
-
-
-  <p>
-    <a href="mailto:your-email@gmail.com">📧 Gmail</a> •
-    <a href="https://www.linkedin.com/in/dhairya-singh-32118b2a7/">LinkedIn</a> •
-    <a href="https://github.com/DhairyaSinghhariom">GitHub</a> •
-    <a href="https://dhairyasinghhariom.github.io/DhairySingh-Portfolio-/">Portfolio</a> •
-    <a href="https://www.instagram.com/dhairyasingh454/">Instagram</a> •
-    <a href="https://x.com/DhairyaSin46264">Twitter</a>
-  </p>
-
-</div>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dhairya-singh-32118b2a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/DhairyaSinghhariom">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://dhairyasinghhariom.github.io/DhairySingh-Portfolio-/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/dhairyasingh454/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://x.com/DhairyaSin46264">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
 
 
 ---
