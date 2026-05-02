@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dhairya Singh</h1>
-<h3 align="center">Full Stack Developer in Progress · & switch Cloud  Problem Solver </h3>
+<h2 align="center">➜ Full Stack Developer (In Progress)</h2>
+
+<p align="center">
+  <b>🚀 Building Scalable Web Apps</b> • 
+  <b>☁️ Exploring Cloud</b> • 
+  <b>🤖 Learning AI</b>
+</p>
 <img src="https://cdn.phototourl.com/free/2026-04-30-aee7ef58-c57d-416c-9b1f-a3228baa36fd.jpg" width="900" height="900">
 
 <p align="center">
