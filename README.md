@@ -111,7 +111,7 @@ I focus on writing **clean, scalable, and maintainable code** using modern techn
 |--|--------|-----------|------|------|
 | 1 | Weather App | HTML, CSS, JS | [GitHub](https://github.com/DhairyaSinghHariom) | [Live](#) |
 | 2 | Portfolio Website | HTML, CSS, JS | [GitHub](#) | [Live](#) |
-| 3 | Quiz App | HTML, CSS, JS | [GitHub](#) | [Live](#) |
+
 
 ---
 
@@ -125,9 +125,12 @@ I focus on writing **clean, scalable, and maintainable code** using modern techn
 ---
 
 ## 🔥 Streak Stats
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DhairyaSinghhariom&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhairyaSinghhariom&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=DhairyaSinghhariom&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -136,8 +139,7 @@ I focus on writing **clean, scalable, and maintainable code** using modern techn
 ## 📬 Opportunities
 
 I’m open to:
-- Internships 💼  
-- Freelance Projects 🌍  
+- Internships 💼   
 - Collaboration 🤝  
 
 ---
