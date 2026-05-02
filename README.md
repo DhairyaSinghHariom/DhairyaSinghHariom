@@ -44,7 +44,15 @@ I focus on writing **clean, scalable, and maintainable code** using modern techn
 
 ---
 
-## 💼 Experience
+## 💼 Experience 
+2025-Present
+backend developer
+Prodesk it
+A simple calculator built using HTML, CSS, and JavaScript for performing basic arithmetic operations.""This calculator supports addition, subtraction, multiplication, and division with a clean UI." "A beginner-friendly project to practice DOM manipulation and event handling in JavaScript."
+
+Designed, developed, and maintained scalable backend systems using Node.js and Spring Boot for diverse client projects.
+Integrated and managed databases (MySQL, MongoDB, ) ensuring data integrity, indexing, and query optimization.
+Built and optimized RESTful APIs for high-performance data exchange between frontend and backend systems
 
 ### 🧑‍💻 Frontend Development Intern — *Edunet Foundation*  
 📍 Remote | 🗓️ Aug 2025 – Oct 2025  
