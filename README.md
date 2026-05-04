@@ -118,8 +118,8 @@ Built and optimized RESTful APIs for high-performance data exchange between fron
 
 | # | Project | Tech Stack | Repo | Live |
 |--|--------|-----------|------|------|
-| 1 | Weather App | HTML, CSS, JS | [GitHub](https://github.com/DhairyaSinghHariom) | [Live](#) |
-| 2 | Portfolio Website | HTML, CSS, JS | [GitHub](#) | [Live](#) |
+| 1 | Calculator App | HTML, CSS, JS | [GitHub](https://github.com/DhairyaSinghHariom/My-Projects/tree/main/calulator) | [Live](http://127.0.0.1:3000/My-Projects/calulator/index.html?vscode-livepreview=true) |
+| 2 | Portfolio Website | HTML, CSS, JS | [GitHub](https://github.com/DhairyaSinghHariom/DhairySingh-Portfolio-) | [Live](https://dhairyasinghhariom.github.io/DhairySingh-Portfolio-/) |
 
 
 ---
