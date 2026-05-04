@@ -6,7 +6,7 @@
   <b>☁️ Exploring Cloud</b> • 
   <b>🤖 Learning AI</b>
 </p>
-<img src="https://cdn.phototourl.com/free/2026-04-30-aee7ef58-c57d-416c-9b1f-a3228baa36fd.jpg" width="900" height="900">
+
 
 <p align="center">
   <a href="mailto:your-email@gmail.com">
@@ -46,8 +46,7 @@ I focus on writing **clean, scalable, and maintainable code** using modern techn
 
 ## 💼 Experience 
 # 2025-Present
-backend developer
-Prodesk it
+Backend developer # Prodesk IT
 A simple calculator built using HTML, CSS, and JavaScript for performing basic arithmetic operations.""This calculator supports addition, subtraction, multiplication, and division with a clean UI." "A beginner-friendly project to practice DOM manipulation and event handling in JavaScript."
 
 Designed, developed, and maintained scalable backend systems using Node.js and Spring Boot for diverse client projects.
