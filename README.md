@@ -3,7 +3,6 @@
 
 <p align="center">
   <b>🚀 Building Scalable Web Apps</b> • 
-  <b>☁️ Exploring Cloud</b> • 
   <b>🤖 Learning AI</b>
 </p>
 
@@ -39,13 +38,13 @@ I focus on writing **clean, scalable, and maintainable code** using modern techn
 
 - 🎓 BCA 2nd Year Student at **United University**
 - 💻 Learning **Full Stack Development (MERN Stack)**
-- 🌱 Currently improving **Backend & Problem Solving**
+- 🌱 Currently improving **  Problem Solving**
 - ⚡ Passion: Building useful & impactful projects
 
 ---
 
 ## 💼 Experience 
-# 2025-Present
+# 2025
 Backend developer # Prodesk IT
 A simple calculator built using HTML, CSS, and JavaScript for performing basic arithmetic operations.""This calculator supports addition, subtraction, multiplication, and division with a clean UI." "A beginner-friendly project to practice DOM manipulation and event handling in JavaScript."
 
@@ -72,8 +71,6 @@ Built and optimized RESTful APIs for high-performance data exchange between fron
 ### ⚙️ Frameworks & Libraries  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
@@ -91,7 +88,7 @@ Built and optimized RESTful APIs for high-performance data exchange between fron
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 
 ## ⚔️ DSA Journey
@@ -148,10 +145,8 @@ Built and optimized RESTful APIs for high-performance data exchange between fron
 ---
 
 
-## 📬 Opportunities
+## 📬 Open to Opportunities
 
-I’m open to:
-- Internships 💼   
-- Collaboration 🤝  
+💼 Seeking Internship Opportunities  
+🤝 Open to Collaboration on Innovative Projects  
 
----
