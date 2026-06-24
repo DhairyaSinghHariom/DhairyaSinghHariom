@@ -36,7 +36,7 @@
 I'm a **Full Stack Developer (in progress)** who enjoys turning ideas into real-world web applications.  
 I focus on writing **clean, scalable, and maintainable code** using modern technologies.
 
-- 🎓 BCA 2nd Year Student at **United University**
+- 🎓 BCA 3nd Year Student at **United University**
 - 💻 Learning **Full Stack Development (MERN Stack)**
 - 🌱 Currently improving **  Problem Solving**
 - ⚡ Passion: Building useful & impactful projects
@@ -44,13 +44,15 @@ I focus on writing **clean, scalable, and maintainable code** using modern techn
 ---
 
 ## 💼 Experience 
-# 2025
-Backend developer # Prodesk IT
-A simple calculator built using HTML, CSS, and JavaScript for performing basic arithmetic operations.""This calculator supports addition, subtraction, multiplication, and division with a clean UI." "A beginner-friendly project to practice DOM manipulation and event handling in JavaScript."
 
-Designed, developed, and maintained scalable backend systems using Node.js and Spring Boot for diverse client projects.
-Integrated and managed databases (MySQL, MongoDB, ) ensuring data integrity, indexing, and query optimization.
-Built and optimized RESTful APIs for high-performance data exchange between frontend and backend systems
+Backend Developer | Prodesk IT (2025)
+Developed and maintained scalable backend applications using Node.js and Spring Boot.
+Built and optimized RESTful APIs for efficient frontend-backend communication.
+Managed MySQL and MongoDB databases, ensuring performance and data integrity.
+Calculator Project
+Built a responsive calculator using HTML, CSS, and JavaScript.
+Implemented basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
+Improved JavaScript skills through DOM manipulation and event handling.
 
 
 
@@ -78,6 +80,8 @@ Built and optimized RESTful APIs for high-performance data exchange between fron
 ### 🗄️ Databases  
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ---
 
